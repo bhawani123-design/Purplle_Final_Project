@@ -28,55 +28,55 @@ All the images, icons, and links have taken from the original website (https://w
 
 ## Landing Page
 
-![LandingPage](./images/LandingPage.jpg)
+![LandingPage](../images/LandingPage.jpg)
 
 This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
 ## SignUp Page
 
-![SignUpPage](./images/SignUp.png)
+![SignUpPage](../images/SignUp.png)
 
 You can signup with our website from here .
 
 ## Login Page
 
-![LoginPage](./images/Login.png)
+![LoginPage](../images/Login.png)
 
 You can login to our website from here by entering required details.
 
 ## Navigation Bar
 
-![NavBar](./images/NavigationBar.png)
+![NavBar](../images/NavigationBar.png)
 
 Here, you can choose a category of products whatever you want.
 
 ## Products Page
 
-![ProductsPage](./images/ProductsPage.png)
+![ProductsPage](../images/ProductsPage.png)
 
 Here, you can see all the products and whenever you hover on any product you will see ADD TO CART option, bu clicking the button you can add the products to cart.
 
 ## Cart Page
 
-![CartPage](./images/CartPage.png)
+![CartPage](../images/CartPage.png)
 
 Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
 ## Address Page
 
-![AddressPage](./images/AddressPage.png)
+![AddressPage](../images/AddressPage.png)
 
 In this page you can add your address to where your product should be delivered.
 
 ## Payment Page
 
-![PaymentPage](./images/PaymentPage.png)
+![PaymentPage](../images/PaymentPage.png)
 
 You can see lot of payment options here and you can choose any one of them to pay for your product.
 
 ## Summary Page
 
-![ThankyouPage](./images/ThankyouPage.png)
+![ThankyouPage](../images/ThankyouPage.png)
 
 Finally, Here you can see your order details and summary and by clicking continue you will be redirected to home page and you can continue the shopping.
 
